@@ -1,0 +1,422 @@
+waypoints:
+  - position:
+      x: 7.830110092383944
+      y: -0.9276798288250234
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near fridge at kitchen
+  - position:
+      x: 7.929853284693735
+      y: -2.980623770578094
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near oven at kitchen
+  - position:
+      x: 7.829115122759412
+      y: -4.232305608437745
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near sink at kitchen
+  - position:
+      x: 5.871949570115344
+      y: -4.631494456938795
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near door at kitchen
+  - position:
+      x: 5.120792729485608
+      y: 0.526252198166795
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near dining table at kitchen
+  - position:
+      x: 1.5082238510801926
+      y: 1.9808173876469504
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near gym at dining
+  - position:
+      x: -0.7495582058486531
+      y: 3.1340123079752606
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near chairs at dining
+  - position:
+      x: 0.6042788718954089
+      y: -0.32177347807963824
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: near sofa at dining
+  - position:
+      x: 0.8539458962653809
+      y: -4.4276965372795765
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near table at dining
+  - position:
+      x: 4.165837969196655
+      y: -4.5301583082099315
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near shelves at dining
+  - position:
+      x: -4.714597586294135
+      y: 0.5832167217208155
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near bed at bedroom
+  - position:
+      x: -7.325076274723167
+      y: -3.02000044723382
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: Near chair at bedroom
+  - position:
+      x: 6.474524280148282
+      y: -3.2800242008773317
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 5.170249754963614
+      y: -1.877147180881708
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 3.1134917629831698
+      y: 0.27730878806921017
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: -2.6073725239138095
+      y: -0.6199427590959936
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: -3.210022610433455
+      y: -2.221763453006905
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: -1.7547840576720484
+      y: -2.222783548127006
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: -1.3036708600281168
+      y: -3.9254831067474267
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 4.76841267922959
+      y: -3.1786880521484684
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 3.0626025842577302
+      y: -2.0759501520218113
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: -0.5493331316593467
+      y: 1.4815587153937135
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 2.560434379617604
+      y: -3.2772804967611973
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+  - position:
+      x: 5.973562099295467
+      y: -0.47574754002554115
+      z: 0
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+    label: ''
+edges:
+  - start: 0
+    end: 1
+  - start: 1
+    end: 0
+  - start: 8
+    end: 9
+  - start: 9
+    end: 8
+  - start: 12
+    end: 2
+  - start: 2
+    end: 12
+  - start: 12
+    end: 1
+  - start: 1
+    end: 12
+  - start: 12
+    end: 0
+  - start: 0
+    end: 12
+  - start: 1
+    end: 2
+  - start: 2
+    end: 1
+  - start: 12
+    end: 3
+  - start: 3
+    end: 12
+  - start: 2
+    end: 3
+  - start: 3
+    end: 2
+  - start: 13
+    end: 12
+  - start: 12
+    end: 13
+  - start: 13
+    end: 4
+  - start: 4
+    end: 13
+  - start: 13
+    end: 4
+  - start: 4
+    end: 13
+  - start: 13
+    end: 14
+  - start: 14
+    end: 13
+  - start: 14
+    end: 4
+  - start: 4
+    end: 14
+  - start: 14
+    end: 5
+  - start: 5
+    end: 14
+  - start: 14
+    end: 7
+  - start: 7
+    end: 14
+  - start: 5
+    end: 6
+  - start: 6
+    end: 5
+  - start: 7
+    end: 15
+  - start: 15
+    end: 7
+  - start: 15
+    end: 10
+  - start: 10
+    end: 15
+  - start: 16
+    end: 15
+  - start: 15
+    end: 16
+  - start: 16
+    end: 11
+  - start: 11
+    end: 16
+  - start: 16
+    end: 16
+  - start: 16
+    end: 16
+  - start: 17
+    end: 16
+  - start: 16
+    end: 17
+  - start: 17
+    end: 18
+  - start: 18
+    end: 17
+  - start: 8
+    end: 18
+  - start: 18
+    end: 8
+  - start: 9
+    end: 19
+  - start: 19
+    end: 9
+  - start: 19
+    end: 3
+  - start: 3
+    end: 19
+  - start: 19
+    end: 12
+  - start: 12
+    end: 19
+  - start: 19
+    end: 13
+  - start: 13
+    end: 19
+  - start: 13
+    end: 0
+  - start: 0
+    end: 13
+  - start: 19
+    end: 20
+  - start: 20
+    end: 19
+  - start: 20
+    end: 14
+  - start: 14
+    end: 20
+  - start: 21
+    end: 7
+  - start: 7
+    end: 21
+  - start: 21
+    end: 6
+  - start: 6
+    end: 21
+  - start: 21
+    end: 5
+  - start: 5
+    end: 21
+  - start: 21
+    end: 15
+  - start: 15
+    end: 21
+  - start: 22
+    end: 22
+  - start: 22
+    end: 22
+  - start: 9
+    end: 9
+  - start: 9
+    end: 9
+  - start: 22
+    end: 20
+  - start: 20
+    end: 22
+  - start: 22
+    end: 9
+  - start: 9
+    end: 22
+  - start: 22
+    end: 22
+  - start: 22
+    end: 22
+  - start: 8
+    end: 8
+  - start: 8
+    end: 8
+  - start: 22
+    end: 8
+  - start: 8
+    end: 22
+  - start: 4
+    end: 23
+  - start: 23
+    end: 4
+  - start: 23
+    end: 0
+  - start: 0
+    end: 23
+  - start: 13
+    end: 23
+  - start: 23
+    end: 13
