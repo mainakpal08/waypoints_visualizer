@@ -1,0 +1,14 @@
+agent1:
+  - start: 0
+    end: 6
+    wait: 3
+  - start: 6
+    end: 10
+    wait: 4
+agent2:
+  - start: 2
+    end: 22
+    wait: 5
+  - start: 22
+    end: 11
+    wait: 5
